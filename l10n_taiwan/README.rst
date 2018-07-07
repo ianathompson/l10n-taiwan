@@ -28,6 +28,7 @@ Contributors
 ------------
 * Eric Caudal <eric.caudal@elico-corp.com>
 * Victor Martin <victor.martin@elico-corp.com>
+* Ian Thompson <ian@kwestic.com>
 
 Maintainer
 ----------
